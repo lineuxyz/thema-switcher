@@ -5,9 +5,9 @@
 <img src="https://img.shields.io/badge/made%20by-Lineu%20Pastorelli-brightgreen"/>
 </a>
 
-<h3 style="text-align: center">🌞 Thema Switcher 🌛</h3>
+<h3 align="center">🌞 Thema Switcher 🌛</h3>
 
-<p style="text-align: center;">This project was created with the intention of helping people like me to exchange themes within their applications.
+<p align="center">This project was created with the intention of helping people like me to exchange themes within their applications.
 </p>
 
 

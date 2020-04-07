@@ -1,4 +1,4 @@
-<h1 align="center"><img style="width: 100px;" src="./github/Night_Mode_Moon_Dark_Effect-512.png" />
+<h1 align="center"><img style="width: 100px;" src="./.github/Night_Mode_Moon_Dark_Effect-512.png" />
 </h1>
 
 <a style="text-decoration: none;" href="https://www.linkedin.com/in/lineu-pastorelli-5165a7186/" >

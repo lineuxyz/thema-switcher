@@ -1,44 +1,46 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center"><img style="width: 100px;" src="./github/Night_Mode_Moon_Dark_Effect-512.png" />
+</h1>
 
-## Available Scripts
+<a style="text-decoration: none;" href="https://www.linkedin.com/in/lineu-pastorelli-5165a7186/" >
+<img src="https://img.shields.io/badge/made%20by-Lineu%20Pastorelli-brightgreen"/>
+</a>
 
-In the project directory, you can run:
+<h3 style="text-align: center">🌞 Thema Switcher 🌛</h3>
 
-### `yarn start`
+<p style="text-align: center;">This project was created with the intention of helping people like me to exchange themes within their applications.
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## 💾 Technologies 
+---
+* [Typescript](https://www.typescriptlang.org/docs/home.html)
+* [React](https://reactjs.org/docs/getting-started.html)
+* [Polished](https://polished.js.org/docs/)
+* [Styled-components](https://styled-components.com/)
+* [React-router-dom](https://reacttraining.com/react-router/web/guides/quick-start)
 
-### `yarn test`
+## 💻 How To Use
+---
+To clone and run this project on your computer you will need to have installed [Git](https://git-scm.com/downloads), [Yarn](https://classic.yarnpkg.com/en/docs/install/) or [Npm](https://nodejs.org/en/download/)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Cloning and installing dependencies
 
-### `yarn build`
+```bash
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Clone this repository
+$ https://github.com/lineuxyz/thema-switcher
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+# Enter the project's root folder
+$ yarn or npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# After everything installed
+$ yarn start or npm start
 
-### `yarn eject`
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 📋 License
+---
+This project is under the MIT license. See the [LICENSE](./LICENSE) for more information.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
+Made with ❤️ by [Lineu Pastorelli](https://www.linkedin.com/in/lineu-pastorelli-5165a7186/)

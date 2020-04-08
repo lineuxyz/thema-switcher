@@ -1,13 +1,13 @@
-<h1 align="center"><img style="width: 100px; height: 100px;" src="./.github/Night_Mode_Moon_Dark_Effect-512.png" />
+<h1 align="center"><img src="./.github/Night_Mode_Moon_Dark_Effect-512.png" width="100px" heigth="100px" />
 </h1>
 
 <a style="text-decoration: none;" href="https://www.linkedin.com/in/lineu-pastorelli-5165a7186/" >
 <img src="https://img.shields.io/badge/made%20by-Lineu%20Pastorelli-brightgreen"/>
 </a>
 
-<h3 style="text-align: center">🌞 Thema Switcher 🌛</h3>
+<h3 align="center">🌞 Thema Switcher 🌛</h3>
 
-<p style="text-align: center;">This project was created with the intention of helping people like me to exchange themes within their applications.
+<p align="center">This project was created with the intention of helping people like me to exchange themes within their applications.
 </p>
 
 ## 📚 The Project
@@ -51,5 +51,6 @@ $ yarn start or npm start
 
 This project is under the MIT license. See the [LICENSE](./LICENSE) for more information.
 
+---
 
 Made with ❤️ by [Lineu Pastorelli](https://www.linkedin.com/in/lineu-pastorelli-5165a7186/)

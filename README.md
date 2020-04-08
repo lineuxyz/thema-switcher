@@ -13,8 +13,8 @@
 ## 📚 The Project
 
 <h2>
-  <img width="500px" src="./.github/light.png">
-  <img width="500px" src="./.github/dark.png"/>
+  <img width="430px" src="./.github/light.png">
+  <img width="430px" src="./.github/dark.png"/>
 </h2>
 <h2>
   <img src="./.github/gif.gif">
